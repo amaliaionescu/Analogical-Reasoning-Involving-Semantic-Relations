@@ -4,4 +4,5 @@ This repository includes code for two Bayesian models used in the paper "Analogi
 Study 1 includes code for extracting w2v embeddings from tokens in data, visualizing them using t-sne, and semantic distance calculations.
 
 Prerequisites for Python: Pandas,Numpy,Spacy,Seaborn
+
 Prerequisites for R: brms, rstan,dplyr,tidyr,tidyverse,bayesplot
